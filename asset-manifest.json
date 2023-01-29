@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple_Tour_website/static/css/main.566bd010.css",
+    "main.js": "/Simple_Tour_website/static/js/main.7a77d29d.js",
+    "index.html": "/Simple_Tour_website/index.html",
+    "main.566bd010.css.map": "/Simple_Tour_website/static/css/main.566bd010.css.map",
+    "main.7a77d29d.js.map": "/Simple_Tour_website/static/js/main.7a77d29d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566bd010.css",
+    "static/js/main.7a77d29d.js"
+  ]
+}
